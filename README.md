@@ -1,6 +1,7 @@
 <h2><b>Javascript Calculator📲</b></h2>
 <hr>
-<img src="PP.jpg">
+<img src="![calc-preview](https://user-images.githubusercontent.com/73229242/114997765-7c29c400-9ea0-11eb-84c5-4cd1c480dccd.png)
+">
 <br>
 <p>Simple Javascript project - the calculator.</p><br>
 <h3><b>Built with</b></h3>
@@ -13,7 +14,7 @@
 <br>
 <h3><b>Live Demo</b></h3>
 <hr>
-<a href="https://loosescrew022.github.io/Week1-project">Live Demo Link</a><br>
+<a href="https://loosescrew022.github.io/Calculator/">Live Demo Link</a><br>
 <h3><b>Getting Started</b></h3>
 <hr>
 <h3><b>Authors</b></h3>
