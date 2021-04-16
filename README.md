@@ -1,7 +1,6 @@
 <h2><b>Javascript Calculator📲</b></h2>
 <hr>
-<img src="![calc-preview](https://user-images.githubusercontent.com/73229242/114997765-7c29c400-9ea0-11eb-84c5-4cd1c480dccd.png)
-">
+<img src="https://user-images.githubusercontent.com/73229242/114997765-7c29c400-9ea0-11eb-84c5-4cd1c480dccd.png">
 <br>
 <p>Simple Javascript project - the calculator.</p><br>
 <h3><b>Built with</b></h3>
